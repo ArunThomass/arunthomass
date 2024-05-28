@@ -1,6 +1,6 @@
-<div align="center">
+
   <img height="400"  src="https://github.com/ArunThomass/arunthomass/blob/main/Picsart_24-05-29_01-36-41-508.jpg?raw=true"  />
-</div>
+
 
 ###
 
