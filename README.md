@@ -1,5 +1,5 @@
 
-  <img height="350" width="850" margin="0" padding="0"  src="https://github.com/ArunThomass/arunthomass/blob/main/Picsart_24-05-29_01-36-41-508.jpg?raw=true"  />
+  <img height="310" width="850" margin="0" padding="0"  src="https://github.com/ArunThomass/arunthomass/blob/main/Picsart_24-05-29_01-36-41-508.jpg?raw=true"  />
 
 
 ###
