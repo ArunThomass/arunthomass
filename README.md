@@ -21,11 +21,7 @@
 
 <h3 align="left">🛠 Language and tools</h3>
 
-###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="javascript logo"  />
@@ -56,6 +52,12 @@
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="42" alt="photoshop logo"  />
 </div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
 
 ###
 
