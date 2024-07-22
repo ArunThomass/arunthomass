@@ -5,10 +5,10 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/arunthomass" target="_blank">
+  <a href="www.linkedin.com/in/arunthomass">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="30" alt="linkedin logo"  />
   </a>
-  <a href="arunthomas551@gmail.com" target="_blank">
+  <a href="arunthomas551@gmail.com" >
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="30" alt="gmail logo"  />
   </a>
 </div>
